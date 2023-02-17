@@ -1,0 +1,22 @@
+{
+  "name": "web-d-back--end-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeServerUsingEJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theashu02/WEB-D-BACK--END-.git"
+  },
+  "author": "ashutosh chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theashu02/WEB-D-BACK--END-/issues"
+  },
+  "homepage": "https://github.com/theashu02/WEB-D-BACK--END-#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
